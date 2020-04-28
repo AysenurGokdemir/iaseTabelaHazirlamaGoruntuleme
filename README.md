@@ -1,5 +1,7 @@
 # iaşe Tabela Hazirlama ve Görüntüleme
 
+C# .Net framework, MongoDB veritabanı kullanarak geliştirilmiş masaüstü uygulamadır. 
+
 ![form2](https://user-images.githubusercontent.com/28164758/80496023-5181eb00-8971-11ea-9c9a-eb49b1158bb8.PNG)
 ![form3](https://user-images.githubusercontent.com/28164758/80496036-547cdb80-8971-11ea-9c4b-9fc0632c4392.PNG)
 ![form5](https://user-images.githubusercontent.com/28164758/80496046-5777cc00-8971-11ea-855e-2b23a2548687.PNG)
