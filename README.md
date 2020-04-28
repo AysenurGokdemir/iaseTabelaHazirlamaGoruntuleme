@@ -1,1 +1,1 @@
-# iaseTabelaHaz-rlamaGoruntuleme
+# iaseTabelaHazirlamaGoruntuleme
