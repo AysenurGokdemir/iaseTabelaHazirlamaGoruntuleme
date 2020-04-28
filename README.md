@@ -1,0 +1,1 @@
+# iaseTabelaHaz-rlamaGoruntuleme
